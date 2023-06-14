@@ -3,8 +3,9 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #f1f1f1;
-    color: #333;
+    background-color: #000000;
+    color: #c60000;
+    font-family: monospace;
   }
   
   /* Header styles */
@@ -13,7 +14,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #333;
+    background-color: #9b5050;
     padding: 20px;
     z-index: 999;
   }
@@ -25,7 +26,7 @@ body {
   }
   
   #header-img {
-    width: 100px;
+    width: 50px;
     height: auto;
   }
   
@@ -49,6 +50,7 @@ body {
     padding: 100px;
     text-align: center;
     color: #fff;
+    
   }
   
   .hero-container {
@@ -74,7 +76,7 @@ body {
   /* Features section styles */
   #features {
     padding: 80px 0;
-    background-color: #fff;
+    background-color: #c8abab;
     text-align: center;
   }
   
