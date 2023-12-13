@@ -1,4 +1,4 @@
-# LP
+# Landing Page
 This is a product landing page build for ODIN project and part of completing the CSS module.
 
 This project's initial setup was a simple landing page i created for Freecodecamp responsive wed design certification , which  also passed the given user stories 
